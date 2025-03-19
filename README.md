@@ -7,7 +7,7 @@ O **Pirate Bay** é um aplicativo desenvolvido como parte de um mini projeto par
 ## Integrantes
 
 - [**Luccas Lohan Parrilla**](https://github.com/gohan-exe)
-- [**Marlon**](https://github.com/Marlon009)
+- [**Marlon Santos de Oliveira**](https://github.com/Marlon009)
 
 ## Tecnologias Utilizadas
 
@@ -44,8 +44,6 @@ Certifique-se de ter os seguintes softwares instalados:
 2. Instale as dependências:
 
    ```bash
-   Copiar
-   Editar
    npm install
 
 3. Inicie o projeto:
