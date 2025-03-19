@@ -36,10 +36,9 @@ Certifique-se de ter os seguintes softwares instalados:
    git clone https://github.com/seu-usuario/pirate-bay.git
    
 2. Instale as dependências:
-
    ```bash
    npm install
 
 3. Inicie o projeto:
- ```bash
- npx react-native run-android
+   ```bash
+   npx react-native run-android
