@@ -43,11 +43,11 @@ Certifique-se de ter os seguintes softwares instalados:
    
 2. Instale as dependências:
 
-bash
-Copiar
-Editar
-npm install
+   ```bash
+   Copiar
+   Editar
+   npm install
 
 3. Inicie o projeto:
  ```bash
-npx react-native run-android  # Para Android
+   npx react-native run-android
