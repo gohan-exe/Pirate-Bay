@@ -17,7 +17,7 @@ O **Pirate Bay** é um aplicativo desenvolvido como parte de um mini projeto par
 ## Funcionalidades
 
 - Tela de **Home** com recursos inspiradas no tema "Pirate Bay".
-- Layout responsivo para dispositivos móveis.
+- Produtos com links para paginas próprias.
 
 ## Como Rodar o Projeto
 
