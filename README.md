@@ -13,16 +13,10 @@ O **Pirate Bay** é um aplicativo desenvolvido como parte de um mini projeto par
 
 - **React Native** - Framework para desenvolvimento de aplicativos móveis.
 - **React Navigation** - Biblioteca para navegação entre telas no React Native.
-- **Axios** - Cliente HTTP para requisições API.
-- **React Context API** - Gerenciamento de estado global.
-- **Styled Components** - Estilização de componentes com CSS dentro do JavaScript.
 
 ## Funcionalidades
 
-- Tela de **Home** com recursos e animações inspiradas no tema "Pirate Bay".
-- Navegação entre diferentes seções (por exemplo: Explore, Library, Profile).
-- **Busca** interativa para encontrar conteúdo relacionado ao tema pirata.
-- **Favoritos** para marcar itens desejados.
+- Tela de **Home** com recursos inspiradas no tema "Pirate Bay".
 - Layout responsivo para dispositivos móveis.
 
 ## Como Rodar o Projeto
@@ -48,4 +42,4 @@ Certifique-se de ter os seguintes softwares instalados:
 
 3. Inicie o projeto:
  ```bash
-   npx react-native run-android
+ npx react-native run-android
